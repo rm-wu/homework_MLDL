@@ -133,7 +133,7 @@ class GridSearch():
             # Store the only scorer not as a dict for single metric evaluation
             self.scorer_ = scorers if self.multimetric_ else scorers['score']
 
-            self.cv_results_ = results
+            self.results_ = results
             self.n_splits_ = 1
 
             return self
@@ -152,7 +152,7 @@ class GridSearch():
         results = {}
 
         def _store(key_name, array, weights=None, splits=False, rank=False):
-            """A small helper to store the scores/times to the cv_results_"""
+            """A small helper to store the scores/times to the results_"""
             # When iterated first by splits, then by parameters
             # We want `array` to have `n_candidates` rows and `n_splits` cols.
             array = np.array(array, dtype=np.float64).reshape(n_candidates,
@@ -219,7 +219,7 @@ def _fit_and_score(estimator, X_train, y_train, X_val, y_val, scorer, verbose,
         else:
             msg = '%s' % (', '.join('%s=%s' % (k, v)
                           for k, v in parameters.items()))
-        print("[CV] %s %s" % (msg, (64 - len(msg)) * '.'))
+        print(" %s %s" % (msg, (64 - len(msg)) * '.'))
 
     # Adjust length of sample weights
     # fit_params = fit_params if fit_params is not None else {}
