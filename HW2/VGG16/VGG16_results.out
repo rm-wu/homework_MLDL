@@ -1,0 +1,198 @@
+Best found configuration:
+{'lr': 4.498267060616171e-05, 'optimizer': 'AdamW', 'wd': 1.1451275076063077e-06}
+It achieved accuraiesc of 0.916321 (validation) and 0.940200 (test).
+(0, 0, 8)
+(0, 0, 0) {'lr': 6.491272171595169e-06, 'optimizer': 'AdamW', 'wd': 0.00018101482675649105}
+
+[config_id: (0, 0, 0)	budget: 3.333333	loss: 2.7235577330714604
+time_stamps: 0.0 (submitted), 0.0002384185791015625 (started), 122.05706286430359 (finished)
+info: {'train loss': 2.864022520073222, 'train accuracy': 0.3703319502074689, 'validation_loss': 2.7235577330714604, 'validation accuracy': 0.4073305670816044, 'test accuracy': 0.4756308330452817}
+]
+
+(0, 0, 1) {'lr': 4.9805585512506585e-06, 'optimizer': 'SGD', 'wd': 5.521029048731811e-05, 'sgd_momentum': 0.650596140204962}
+
+[config_id: (0, 0, 1)	budget: 3.333333	loss: 4.697019592195461
+time_stamps: 122.06000995635986 (submitted), 122.06032419204712 (started), 239.24712800979614 (finished)
+info: {'train loss': 4.666086653291273, 'train accuracy': 0.011756569847856155, 'validation_loss': 4.697019592195461, 'validation accuracy': 0.010373443983402491, 'test accuracy': 0.008641548565502939}
+]
+
+(0, 0, 2) {'lr': 0.00024967862441160736, 'optimizer': 'SGD', 'wd': 1.9380223643842376e-06, 'sgd_momentum': 0.435486374589082}
+
+[config_id: (0, 0, 2)	budget: 3.333333	loss: 3.9745727231723476
+time_stamps: 239.24987936019897 (submitted), 239.25026202201843 (started), 356.5993595123291 (finished)
+info: {'train loss': 4.083894436784799, 'train accuracy': 0.21403872752420472, 'validation_loss': 3.9745727231723476, 'validation accuracy': 0.2268326417704011, 'test accuracy': 0.23816107846526097}
+]
+
+(0, 0, 3) {'lr': 0.002298262895484083, 'optimizer': 'AdamW', 'wd': 0.0031669626104999073}
+
+[config_id: (0, 0, 3)	budget: 3.333333	loss: 3.680866075254575
+time_stamps: 356.6024353504181 (submitted), 356.6027445793152 (started), 475.3291277885437 (finished)
+info: {'train loss': 3.7615342674413657, 'train accuracy': 0.1967496542185339, 'validation_loss': 3.680866075254575, 'validation accuracy': 0.21749654218533887, 'test accuracy': 0.2111994469408918}
+]
+
+(0, 0, 4) {'lr': 6.210279139052452e-06, 'optimizer': 'AdamW', 'wd': 0.009223264699542277}
+
+[config_id: (0, 0, 4)	budget: 3.333333	loss: 2.7870721553206277
+time_stamps: 475.33169317245483 (submitted), 475.3319368362427 (started), 593.9707782268524 (finished)
+info: {'train loss': 2.9052127664019953, 'train accuracy': 0.3551175656984786, 'validation_loss': 2.7870721553206277, 'validation accuracy': 0.3979944674965422, 'test accuracy': 0.4452125820947114}
+]
+
+(0, 0, 5) {'lr': 0.0007560095975888861, 'optimizer': 'AdamW', 'wd': 2.7990489927798598e-05}
+
+[config_id: (0, 0, 5)	budget: 3.333333	loss: 1.5469466937528111
+time_stamps: 593.974027633667 (submitted), 593.9743835926056 (started), 712.6066071987152 (finished)
+info: {'train loss': 1.2659939070789976, 'train accuracy': 0.6642461964038728, 'validation_loss': 1.5469466937528111, 'validation accuracy': 0.6127247579529738, 'test accuracy': 0.6519184237815416}
+, config_id: (0, 0, 5)	budget: 10.000000	loss: 1.1708875881355993
+time_stamps: 1068.9786214828491 (submitted), 1068.9789054393768 (started), 1439.9705381393433 (finished)
+info: {'train loss': 0.6740392464654904, 'train accuracy': 0.8077455048409405, 'validation_loss': 1.1708875881355993, 'validation accuracy': 0.7206085753803596, 'test accuracy': 0.7514690632561355}
+]
+
+(0, 0, 6) {'lr': 0.00030535109664171686, 'optimizer': 'AdamW', 'wd': 4.443790610538837e-06}
+
+[config_id: (0, 0, 6)	budget: 3.333333	loss: 0.6725298645873947
+time_stamps: 712.6107077598572 (submitted), 712.6109762191772 (started), 831.5117361545563 (finished)
+info: {'train loss': 0.2964804142837208, 'train accuracy': 0.9083679114799448, 'validation_loss': 0.6725298645873947, 'validation accuracy': 0.8226141078838175, 'test accuracy': 0.8648461804355341}
+, config_id: (0, 0, 6)	budget: 10.000000	loss: 0.6645546405889187
+time_stamps: 1439.9727725982666 (submitted), 1439.9731559753418 (started), 1810.4149498939514 (finished)
+info: {'train loss': 0.26173168264154245, 'train accuracy': 0.9211618257261411, 'validation_loss': 0.6645546405889187, 'validation accuracy': 0.8302213001383126, 'test accuracy': 0.867611475976495}
+]
+
+(0, 0, 7) {'lr': 0.01911363495652253, 'optimizer': 'AdamW', 'wd': 0.001180151673227008}
+
+[config_id: (0, 0, 7)	budget: 3.333333	loss: 4.7922573683172836
+time_stamps: 831.5162851810455 (submitted), 831.5165731906891 (started), 950.069002866745 (finished)
+info: {'train loss': 5.395527608826613, 'train accuracy': 0.1099585062240664, 'validation_loss': 4.7922573683172836, 'validation accuracy': 0.08229598893499308, 'test accuracy': 0.09160041479433115}
+]
+
+(0, 0, 8) {'lr': 4.498267060616171e-05, 'optimizer': 'AdamW', 'wd': 1.1451275076063077e-06}
+
+[config_id: (0, 0, 8)	budget: 3.333333	loss: 0.55414106457766
+time_stamps: 950.0720763206482 (submitted), 950.0724124908447 (started), 1068.974886894226 (finished)
+info: {'train loss': 0.31818012709769306, 'train accuracy': 0.9145919778699863, 'validation_loss': 0.55414106457766, 'validation accuracy': 0.8540802213001384, 'test accuracy': 0.9115105426892499}
+, config_id: (0, 0, 8)	budget: 10.000000	loss: 0.3458422370935129
+time_stamps: 1810.4169566631317 (submitted), 1810.4173407554626 (started), 2181.4899389743805 (finished)
+info: {'train loss': 0.022086623947897392, 'train accuracy': 0.9906639004149378, 'validation_loss': 0.3458422370935129, 'validation accuracy': 0.9004149377593361, 'test accuracy': 0.9357068786726581}
+, config_id: (0, 0, 8)	budget: 30.000000	loss: 0.33836493254697175
+time_stamps: 2181.492474079132 (submitted), 2181.4927928447723 (started), 3273.005740404129 (finished)
+info: {'train loss': 0.002070136871935998, 'train accuracy': 0.995850622406639, 'validation_loss': 0.33836493254697175, 'validation accuracy': 0.9163208852005533, 'test accuracy': 0.9402004839267196}
+]
+
+(1, 0, 0) {'lr': 1.0790983897002815e-06, 'optimizer': 'SGD', 'wd': 3.47310258364027e-05, 'sgd_momentum': 0.21332386652609936}
+
+[config_id: (1, 0, 0)	budget: 10.000000	loss: 4.662099846830672
+time_stamps: 3273.0090181827545 (submitted), 3273.009345293045 (started), 3638.9685299396515 (finished)
+info: {'train loss': 4.666387323192211, 'train accuracy': 0.011065006915629323, 'validation_loss': 4.662099846830672, 'validation accuracy': 0.014868603042876903, 'test accuracy': 0.01659177324576564}
+]
+
+(1, 0, 1) {'lr': 0.08615028216902576, 'optimizer': 'SGD', 'wd': 4.370689236842874e-06, 'sgd_momentum': 0.7560884481325407}
+
+[config_id: (1, 0, 1)	budget: 10.000000	loss: 0.7222185629532051
+time_stamps: 3638.971467733383 (submitted), 3638.9718396663666 (started), 4004.498769044876 (finished)
+info: {'train loss': 0.13783742631701842, 'train accuracy': 0.9571230982019364, 'validation_loss': 0.7222185629532051, 'validation accuracy': 0.8395573997233748, 'test accuracy': 0.8603525751814726}
+, config_id: (1, 0, 1)	budget: 30.000000	loss: 0.7128632566576018
+time_stamps: 4370.407335281372 (submitted), 4370.407640218735 (started), 5446.862765789032 (finished)
+info: {'train loss': 0.03295303573754628, 'train accuracy': 0.9878976486860305, 'validation_loss': 0.7128632566576018, 'validation accuracy': 0.8526970954356847, 'test accuracy': 0.867611475976495}
+]
+
+(1, 0, 2) {'lr': 0.0002213048545372713, 'optimizer': 'SGD', 'wd': 0.006289971394330334, 'sgd_momentum': 0.8276008236335282}
+
+[config_id: (1, 0, 2)	budget: 10.000000	loss: 1.8189113736977056
+time_stamps: 4004.5025601387024 (submitted), 4004.5028405189514 (started), 4370.403824329376 (finished)
+info: {'train loss': 1.802788891403177, 'train accuracy': 0.651106500691563, 'validation_loss': 1.8189113736977056, 'validation accuracy': 0.6514522821576764, 'test accuracy': 0.6954718285516764}
+]
+
+(2, 0, 0) {'lr': 0.026117271601438074, 'optimizer': 'AdamW', 'wd': 0.00486717242116508}
+
+[config_id: (2, 0, 0)	budget: 30.000000	loss: 4.186684873588847
+time_stamps: 5446.8662650585175 (submitted), 5446.866530656815 (started), 6544.959060907364 (finished)
+info: {'train loss': 4.183722447227805, 'train accuracy': 0.08955739972337483, 'validation_loss': 4.186684873588847, 'validation accuracy': 0.09232365145228216, 'test accuracy': 0.09194607673695127}
+]
+
+(2, 0, 1) {'lr': 0.0002848608803096307, 'optimizer': 'AdamW', 'wd': 3.410518429077887e-05}
+
+[config_id: (2, 0, 1)	budget: 30.000000	loss: 0.6228237105932803
+time_stamps: 6544.961401939392 (submitted), 6544.96172785759 (started), 7637.30838561058 (finished)
+info: {'train loss': 0.27529867885848136, 'train accuracy': 0.9190871369294606, 'validation_loss': 0.6228237105932803, 'validation accuracy': 0.8357538035961273, 'test accuracy': 0.8620808848945731}
+]
+
+(2, 0, 2) {'lr': 0.05098991363893926, 'optimizer': 'SGD', 'wd': 0.016822062204414723, 'sgd_momentum': 0.7847051168608759}
+
+[config_id: (2, 0, 2)	budget: 30.000000	loss: 0.8281570652790914
+time_stamps: 7637.311424970627 (submitted), 7637.311687469482 (started), 8714.869606494904 (finished)
+info: {'train loss': 0.7946989645107159, 'train accuracy': 0.7876901798063625, 'validation_loss': 0.8281570652790914, 'validation accuracy': 0.7783540802213001, 'test accuracy': 0.817836156239198}
+]
+
+(3, 0, 0) {'lr': 0.015559478788716864, 'optimizer': 'SGD', 'wd': 0.00017680366614000658, 'sgd_momentum': 0.866720224873658}
+
+[config_id: (3, 0, 0)	budget: 3.333333	loss: 0.40926676465103073
+time_stamps: 8714.872707128525 (submitted), 8714.872987985611 (started), 8832.354371070862 (finished)
+info: {'train loss': 0.13077427168604744, 'train accuracy': 0.956777316735823, 'validation_loss': 0.40926676465103073, 'validation accuracy': 0.88865836791148, 'test accuracy': 0.9180781195990322}
+, config_id: (3, 0, 0)	budget: 10.000000	loss: 0.4026789746426283
+time_stamps: 9775.212712287903 (submitted), 9775.213159799576 (started), 10141.31053185463 (finished)
+info: {'train loss': 0.059725911239288325, 'train accuracy': 0.9806362378976488, 'validation_loss': 0.4026789746426283, 'validation accuracy': 0.8983402489626556, 'test accuracy': 0.9153128240580712}
+]
+
+(3, 0, 1) {'lr': 0.001343431139391514, 'optimizer': 'AdamW', 'wd': 1.6122865584282422e-06}
+
+[config_id: (3, 0, 1)	budget: 3.333333	loss: 2.944734937422503
+time_stamps: 8832.389005184174 (submitted), 8832.38935804367 (started), 8951.420868873596 (finished)
+info: {'train loss': 3.049684885956275, 'train accuracy': 0.3336791147994468, 'validation_loss': 2.944734937422503, 'validation accuracy': 0.363762102351314, 'test accuracy': 0.37746284134116836}
+]
+
+(3, 0, 2) {'lr': 0.024714983914233157, 'optimizer': 'SGD', 'wd': 5.7919961055403044e-05, 'sgd_momentum': 0.8662793992182724}
+
+[config_id: (3, 0, 2)	budget: 3.333333	loss: 0.6812321364384963
+time_stamps: 8951.453693151474 (submitted), 8951.454046726227 (started), 9068.854421377182 (finished)
+info: {'train loss': 0.5084495663148239, 'train accuracy': 0.8558091286307055, 'validation_loss': 0.6812321364384963, 'validation accuracy': 0.8274550484094053, 'test accuracy': 0.8520566885585897}
+]
+
+(3, 0, 3) {'lr': 0.01332065319303104, 'optimizer': 'SGD', 'wd': 3.0177260864266202e-05, 'sgd_momentum': 0.8659205117302827}
+
+[config_id: (3, 0, 3)	budget: 3.333333	loss: 0.3957011211421315
+time_stamps: 9068.888140678406 (submitted), 9068.888634204865 (started), 9186.16910982132 (finished)
+info: {'train loss': 0.31453988017877604, 'train accuracy': 0.9132088520055326, 'validation_loss': 0.3957011211421315, 'validation accuracy': 0.8865836791147995, 'test accuracy': 0.9018320082958866}
+, config_id: (3, 0, 3)	budget: 10.000000	loss: 0.3024698313078321
+time_stamps: 10141.313020944595 (submitted), 10141.313319683075 (started), 10507.562476158142 (finished)
+info: {'train loss': 0.004244214434557972, 'train accuracy': 0.9955048409405256, 'validation_loss': 0.3024698313078321, 'validation accuracy': 0.9273858921161826, 'test accuracy': 0.9415831316972001}
+, config_id: (3, 0, 3)	budget: 30.000000	loss: 0.3429451029989894
+time_stamps: 10873.57957148552 (submitted), 10873.579860448837 (started), 11951.384650468826 (finished)
+info: {'train loss': 0.011124771840633364, 'train accuracy': 0.9934301521438451, 'validation_loss': 0.3429451029989894, 'validation accuracy': 0.9149377593360997, 'test accuracy': 0.9367438645005185}
+]
+
+(3, 0, 4) {'lr': 0.016683758356271772, 'optimizer': 'SGD', 'wd': 2.7128064619179316e-05, 'sgd_momentum': 0.8665833759256845}
+
+[config_id: (3, 0, 4)	budget: 3.333333	loss: 0.4724578155439095
+time_stamps: 9186.2047996521 (submitted), 9186.205099344254 (started), 9303.742692947388 (finished)
+info: {'train loss': 0.36245514578179533, 'train accuracy': 0.8990318118948825, 'validation_loss': 0.4724578155439095, 'validation accuracy': 0.872060857538036, 'test accuracy': 0.8938817836156239}
+]
+
+(3, 0, 5) {'lr': 0.08163507560236474, 'optimizer': 'AdamW', 'wd': 6.440304915285254e-05}
+
+[config_id: (3, 0, 5)	budget: 3.333333	loss: 10.340981067958214
+time_stamps: 9303.746353626251 (submitted), 9303.746778011322 (started), 9422.825893163681 (finished)
+info: {'train loss': 12.437389843361672, 'train accuracy': 0.08160442600276625, 'validation_loss': 10.340981067958214, 'validation accuracy': 0.08990318118948824, 'test accuracy': 0.09194607673695127}
+]
+
+(3, 0, 6) {'lr': 0.0003886023483056514, 'optimizer': 'SGD', 'wd': 1.5995615833737088e-06, 'sgd_momentum': 0.8666755659129104}
+
+[config_id: (3, 0, 6)	budget: 3.333333	loss: 2.522989318248807
+time_stamps: 9422.858909845352 (submitted), 9422.859210729599 (started), 9540.204443216324 (finished)
+info: {'train loss': 2.7015651634290174, 'train accuracy': 0.4066390041493776, 'validation_loss': 2.522989318248807, 'validation accuracy': 0.4664591977869986, 'test accuracy': 0.5267888005530591}
+]
+
+(3, 0, 7) {'lr': 0.012450362511999737, 'optimizer': 'SGD', 'wd': 0.00011096986663312446, 'sgd_momentum': 0.8663835810293817}
+
+[config_id: (3, 0, 7)	budget: 3.333333	loss: 0.42173178998926036
+time_stamps: 9540.238998413086 (submitted), 9540.23939204216 (started), 9657.507515907288 (finished)
+info: {'train loss': 0.14758184523338433, 'train accuracy': 0.950899031811895, 'validation_loss': 0.42173178998926036, 'validation accuracy': 0.8865836791147995, 'test accuracy': 0.9132388524023505}
+]
+
+(3, 0, 8) {'lr': 0.01549629934908647, 'optimizer': 'SGD', 'wd': 3.1461029839649214e-05, 'sgd_momentum': 0.8664933188053553}
+
+[config_id: (3, 0, 8)	budget: 3.333333	loss: 0.39765434511222286
+time_stamps: 9657.542474269867 (submitted), 9657.542888402939 (started), 9775.209500074387 (finished)
+info: {'train loss': 0.13765534853374645, 'train accuracy': 0.9574688796680498, 'validation_loss': 0.39765434511222286, 'validation accuracy': 0.8903872752420471, 'test accuracy': 0.9170411337711718}
+, config_id: (3, 0, 8)	budget: 10.000000	loss: 0.3685827319346688
+time_stamps: 10507.565252065659 (submitted), 10507.56549358368 (started), 10873.576919555664 (finished)
+info: {'train loss': 0.04435248441097647, 'train accuracy': 0.9872060857538036, 'validation_loss': 0.3685827319346688, 'validation accuracy': 0.9038727524204703, 'test accuracy': 0.9201520912547528}
+]
